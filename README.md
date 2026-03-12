@@ -1,4 +1,3 @@
-```markdown
 # ESG Text Classification Project
 
 A complete **GitHub-ready solution for ESG multi-label text classification**, including exploratory analysis, classical NLP baselines, transformer models, and a deployable demo application.
