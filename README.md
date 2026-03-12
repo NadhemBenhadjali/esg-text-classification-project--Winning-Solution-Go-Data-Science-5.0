@@ -4,8 +4,6 @@ A complete **GitHub-ready solution for ESG multi-label text classification**, in
 
 This repository demonstrates an **end-to-end machine learning workflow**, from data exploration to model deployment.
 
----
-
 # Overview
 
 This project packages the full workflow for solving a **multi-label ESG text classification problem**.
@@ -24,8 +22,6 @@ The repository includes:
 -  **Transformer Baseline** using DeBERTa for multi-label classification  
 -  **Enterprise Demo App** built with Gradio  
 -  **EDA Assets** including plots, summary CSVs, and a PDF report
-
----
 
 # Project Structure
 
@@ -71,8 +67,6 @@ text-esg-text-classification-project/
 
 ```
 
----
-
 # Main Components
 
 ## 1. Exploratory Data Analysis (EDA)
@@ -114,9 +108,6 @@ Report:
 reports/EDA_report.pdf
 
 ```
-
----
-
 # 2. Classical NLP Baseline
 
 File:
@@ -137,7 +128,6 @@ Features:
 
 This baseline provides a **fast and interpretable benchmark**.
 
----
 
 # 3. Transformer Baseline
 
@@ -160,9 +150,6 @@ Features:
 - Fold-averaged predictions for final submission
 
 This model significantly improves performance compared to classical approaches.
-
----
-
 # 4. Demo Application
 
 File:
@@ -187,9 +174,6 @@ Example workflow:
 8. Weekly executive reporting
 
 This demonstrates how the model can be integrated into **real enterprise processes**.
-
----
-
 # Installation
 
 Create a virtual environment and install dependencies.
