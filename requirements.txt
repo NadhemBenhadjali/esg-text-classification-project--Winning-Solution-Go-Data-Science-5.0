@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+wordcloud
+scikit-learn
+scipy
+torch
+transformers
+gradio
+jupyter
+nbformat
+nbclient
