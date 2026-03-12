@@ -19,11 +19,11 @@ Each text document may contain one or more of the following labels:
 
 The repository includes:
 
-- 📊 **EDA Notebook** with class distribution, label co-occurrence, outlier detection, and word clouds  
-- 📚 **Classical NLP Baseline** using TF-IDF + Logistic Regression  
-- 🤖 **Transformer Baseline** using DeBERTa for multi-label classification  
-- 🖥 **Enterprise Demo App** built with Gradio  
-- 📈 **EDA Assets** including plots, summary CSVs, and a PDF report
+-  **EDA Notebook** with class distribution, label co-occurrence, outlier detection, and word clouds  
+-  **Classical NLP Baseline** using TF-IDF + Logistic Regression  
+-  **Transformer Baseline** using DeBERTa for multi-label classification  
+-  **Enterprise Demo App** built with Gradio  
+-  **EDA Assets** including plots, summary CSVs, and a PDF report
 
 ---
 
